@@ -1,0 +1,15 @@
+[package]
+name = "aptos-kolkata-project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Customs = "0x0b3676b0541ec49a1f7f6d71a882add587e7b849cfd0ad2a472ccc211b9640bc"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
