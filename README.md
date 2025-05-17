@@ -1,4 +1,4 @@
-# aptos_move_project
+# Smart customs declaration process
 
 This project is a Move smart contract package designed for the Aptos blockchain. It provides custom Move modules and scripts for decentralized application development and experimentation.
 
