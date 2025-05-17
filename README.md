@@ -28,3 +28,4 @@ This project is a Move smart contract package designed for the Aptos blockchain.
    ```sh
    aptos move compile
    ```
+Transaction Hash ; 0b3676b0541ec49a1f7f6d71a882add587e7b849cfd0ad2a472ccc211b9640bc::Declaration
